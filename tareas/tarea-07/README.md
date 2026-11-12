@@ -1,5 +1,7 @@
 # tarea-07
 
+[rúbrica de evaluación](https://docs.google.com/spreadsheets/d/1ro_48MCTKO-HNKFkfSyfsEzyjNVtgfs-/edit?usp=sharing&ouid=100824182330299759331&rtpof=true&sd=true)
+
 ## TACTO
 
 Desarrolla tu propia plataforma web en la que un teléfono funcione como control remoto táctil de una experiencia de imagen y sonido. Puedes trabajar de forma individual o en duplas.
